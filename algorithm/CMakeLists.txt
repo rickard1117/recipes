@@ -1,4 +1,4 @@
 add_executable(replace_blank ReplaceBlank.cpp)
 add_executable(binary_search binary_search.cpp)
-add_executable(rebuild_binary_tree rebuild_binary_tree.cpp)
+add_executable(binary_tree binary_tree.cpp)
 add_executable(quick_sort quick_sort.cpp)
