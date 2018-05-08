@@ -28,3 +28,4 @@ string(REPLACE ";" " " CMAKE_CXX_FLAGS "${CXX_FLAGS}") # CXX_FLAGS是以；为�
 message(STATUS "CXX_FLAGS = " ${CMAKE_CXX_FLAGS} " " ${CMAKE_CXX_FLAGS_${BUILD_TYPE}})
 
 add_subdirectory(algorithm)
+add_subdirectory(cpp)
